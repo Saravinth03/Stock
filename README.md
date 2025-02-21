@@ -4,34 +4,40 @@
 This project uses Artificial Intelligence (AI) to identify undervalued stocks based on key financial metrics. It leverages a neural network model to analyze stock data and predict whether a stock is a good investment opportunity.<br />
 
 ## 🚀 Features:
-✅ AI-Powered Stock Prediction – Uses deep learning to classify stocks as undervalued or not.<br />
-✅ User-Friendly Input System – Allows users to enter stock metrics and get real-time predictions.<br />
-✅ Automated Financial Analysis – Eliminates manual stock analysis and speeds up decision-making.<br />
-✅ Scalable Model – Can be trained on larger datasets for broader market analysis.<br />
+✅ **AI-Powered Stock Prediction** → Uses deep learning to classify stocks as undervalued or not.<br />
+✅ **User-Friendly Input System** → Allows users to enter stock metrics and get real-time predictions.<br />
+✅ **Automated Financial Analysis** → Eliminates manual stock analysis and speeds up decision-making.<br />
+✅ **Scalable Model** → Can be trained on larger datasets for broader market analysis.<br />
 
 ## 🛠️ Tech Stack:
-~ Programming Language - Python 🐍<br />
-~ Machine Learning Framework - TensorFlow, Keras<br />
-~ Data Processing - Pandas, NumPy<br />
-~ Model Evaluation - Scikit-learn<br />
+~ **Programming Language** → Python 🐍<br />
+~ **Machine Learning Framework** → TensorFlow, Keras<br />
+~ **Data Processing** → Pandas, NumPy<br />
+~ **Model Evaluation** → Scikit-learn<br />
 
 ## 📊 How It Works:
-1. Data Collection & Preprocessing – Stock financial metrics are collected and standardized.<br />
-2. Neural Network Training – A deep learning model is trained on stock data.<br />
-3. User Input & Prediction – Users enter stock details, and the model predicts if it's undervalued.<br />
+1. Data Collection & Preprocessing → Stock financial metrics are collected and standardized.<br />
+2. Neural Network Training → A deep learning model is trained on stock data.<br />
+3. User Input & Prediction → Users enter stock details, and the model predicts if it's undervalued.<br />
 
 ## 📦 Installation & Setup:
-🔹 Prerequisites:<br />
+🔹 **Prerequisites**:<br />
 Ensure you have Python installed (Recommended: Python 3.8+).<br />
-🔹 Install Required Libraries:<br />
+🔹 **Install Required Libraries**:<br />
 Run the following command in your terminal:<br />
-pip install pandas numpy scikit-learn tensorflow<br />
-🔹 Clone the Repository:<br />
+```bash
+pip install pandas numpy scikit-learn tensorflow
+```
+🔹 **Clone the Repository**:<br />
+```bash
 git clone https://github.com/your-username/AI-Stock-Analysis.git
-cd AI-Stock-Analysis<br />
-🔹 Run the Program:<br />
-python stock_analysis.py<br />
+cd AI-Stock-Analysis
+```
+🔹 **Run the Program**:<br />
+```bash
+python stock_analysis.
 
+```
 ## 📌 Usage:
 1. Run the script.<br />
 2. Enter stock details (P/E ratio, P/B ratio, etc.).<br />
