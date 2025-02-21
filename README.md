@@ -1,4 +1,4 @@
-### AI-Powered Stock Analysis: Identifying Undervalued Stocks
+# AI-Powered Stock Analysis: Identifying Undervalued Stocks
 
 ## 📌 Overview:
 This project uses Artificial Intelligence (AI) to identify undervalued stocks based on key financial metrics. It leverages a neural network model to analyze stock data and predict whether a stock is a good investment opportunity.<br />
